@@ -29,4 +29,4 @@
 13.	Запустите симуляцию и наблюдайте за процессом. Во время выполнения симуляции вы можете менять масштаб и добавлять в мир вирусы.
 
 
-![Предворительный просмотр программы](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Предворительный просмотр программы](https://github.com/uplay1007/Life_simulation/blob/main/life_sim_scr.png)
