@@ -1,6 +1,6 @@
 # Life_simulation
 Для запуска программы нужно:
-  1. Перенести все файлы с расширением ".py", "requirements.txt" и папку "resources" в PyCharm;
+  1. Перенести все файлы с расширением ".py", "requirements.txt", "sim.db" и папку "resources" в PyCharm;
   2. Установить все зависимости из файла "requirements.txt";
   3. Убедитесь, что версия интерпретатора 3.9
   4. Запустите файл с именем "main.py"
